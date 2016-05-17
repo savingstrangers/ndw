@@ -1,0 +1,23 @@
+name = NDW 2016
+description = NDW 2016
+package = Core
+version = VERSION
+core = 7.x
+
+regions[header] = Header
+regions[nav] = Navigation
+regions[slideshow] = Slideshow
+regions[help] = Help
+regions[content] = Content
+regions[sidebar]  = Sidebar
+regions[footer] = Footer
+
+
+stylesheets[all][] = application.css
+scripts[] = application.js
+
+; Information added by drupal.org packaging script on 2011-07-28
+version = "7.7"
+project = "drupal"
+datestamp = "1311813879"
+
